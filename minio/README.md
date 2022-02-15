@@ -1,6 +1,6 @@
 ### Running minio server
 
-Use the following command to run a standalone MinIO server on macOS. Replace ``/data`` with the path to the drive or directory in which you want MinIO to store data.
+Use the following command to run a standalone MinIO server on Linux. Replace ``/data`` with the path to the drive or directory in which you want MinIO to store data.
 
 ```sh
 ./minio server /data
